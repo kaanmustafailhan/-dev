@@ -1,0 +1,14 @@
+1.Başla
+2.Ekrana yaz ,"Sayı gir"
+3.Klavyeden al , x
+4.Eğer x<45 ise 5'e git değilse 6'a git
+5.Ekrana yaz ,"1", git 14
+6.Eğer x<55 ise 7'e git değilse 8'e git
+7.Ekrana yaz ,"2", git 14 
+8.Eğer x<70 ise 9'a git değilse 10'a git
+9.Ekrana yaz ,"3", git 14
+10.Eğer x<85 ise 11'e git değilse 12'e git
+11.Ekrana yaz ,"4", git 14 
+12.Eğer x<101 ise 13'e git
+13.Ekrana yaz"5", git 14
+14.Dur
